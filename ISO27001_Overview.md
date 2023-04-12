@@ -12,7 +12,7 @@ The most well-known ISO 9000 family is a standard that defines requirements for 
 ISO/IEC = joint effort by both the International Organization for Standardization(ISO) and the International Electrotechnical Commission (IEC).
 
 ### ISO 27001 Compliance process:
-The most important compliance Clauses 4 through 10.
+The most important compliance Clauses are from 4 through 10.
 
 The recently updated ISO 27001 can be found here [2022 Edition](https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-3:v1:en)
 
