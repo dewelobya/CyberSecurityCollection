@@ -4,6 +4,8 @@
 
 Here are some of the content covered:
 
+<h3> First Part <h3>
+
 1. Windows Server 2019 domain environment and Windows 10
 1. Introducing cloud computing
 1. Azure and M365 security
@@ -20,6 +22,8 @@ Here are some of the content covered:
 1. Data protection GDPR
 1. Laws and regulations related to information security and data protection
 1. Documentation
+
+<h3> Second Part <h3>
 
 1. Information security basics
 1. Information Security Solutions
