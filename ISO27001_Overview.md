@@ -14,7 +14,7 @@ ISO/IEC = joint effort by both the International Organization for Standardizatio
 ### ISO 27001 Compliance process:
 Clauses 4 through 10
 
-ISO 27001 [2022 Edition](https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-3:v1:en)
+The recently updated ISO 27001 can be found here [2022 Edition](https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-3:v1:en)
 
 1. Clause 4: Context of the Organization
 2. Clause 5: Leadership 
