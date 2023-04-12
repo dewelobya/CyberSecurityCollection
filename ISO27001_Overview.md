@@ -16,11 +16,11 @@ Clauses 4 through 10
 
 ISO 27001 [2022 Edition](https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-3:v1:en)
 
-Clause 4: Context of the Organization
-Clause 5: Leadership 
-Clause 6: Planning 
-Clause 7: Support 
-Clause 8: Operation 
-Clause 9: Performance evaluation 
-Clause 10: Improvement
+1. Clause 4: Context of the Organization
+2. Clause 5: Leadership 
+3. Clause 6: Planning 
+4. Clause 7: Support 
+5. Clause 8: Operation 
+6. Clause 9: Performance evaluation 
+7. Clause 10: Improvement
 
