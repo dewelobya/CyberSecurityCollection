@@ -1,4 +1,4 @@
-# CyberSecurityCollections
+# CyberSecurityCollection
 
 <summary><h2> This is a collection for Cybersecurity Specialist </h2></summary>
 
