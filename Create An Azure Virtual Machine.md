@@ -25,9 +25,4 @@ Azure portal, and Azure CLI, Azure PowerShell, or an Azure Resource Manager (ARM
   --protected-settings '{"commandToExecute": "./configure-nginx.sh"}'
   
   
-4.  Run apt-get update to download the latest package information from the internet. 
-This step helps ensure that the next command can locate the latest version of the Nginx package \
---Installs Nginx \ 
---Sets the home page \
---var/www/html/index.html, to print a welcome message that includes your VM's host name 
-
+4. <img width="317" alt="Screenshot 2023-04-16 at 13 41 43" src="https://user-images.githubusercontent.com/19546253/232300305-38a0b237-d0b1-4d83-8522-fb95a6caaa29.png">
