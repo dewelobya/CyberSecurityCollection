@@ -25,18 +25,7 @@ Azure portal, and Azure CLI, Azure PowerShell, or an Azure Resource Manager (ARM
   --protected-settings '{"commandToExecute": "./configure-nginx.sh"}'
   
   
-4.  
-
-- #!/bin/bash
-
-- # Update apt cache.
-sudo apt-get update
-
-- # Install Nginx.
-sudo apt-get install -y nginx
-
-- # Set the home page.
-echo "<html><body><h2>Welcome to Azure! My name is $(hostname).</h2></body></html>" | sudo tee -a /var/www/html/index.html
+4. 
 
 a. Run apt-get update to download the latest package information from the internet. This step helps ensure that the next command can locate the latest version of the Nginx package.
 b. Installs Nginx
