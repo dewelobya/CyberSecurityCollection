@@ -1,9 +1,5 @@
 ### Course Notes 21-4-2023
 
-
-
-[Windows 10 - lyhyt oppimäärä -210423.pdf](https://github.com/pe1l1nl1/CyberSecurityCollection/files/11292916/Windows.10.-.lyhyt.oppimaara.-210423.pdf)
-
 Microsoft MD-100 Certification [Microsoft Learn](https://partner.microsoft.com/en-rs/asset/collection/modern-desktop-associate-certification-part-1-exam-md100#/)
 
 Download Microsoft Enterprise [here](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise) 
