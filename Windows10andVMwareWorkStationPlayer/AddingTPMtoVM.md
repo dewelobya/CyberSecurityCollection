@@ -11,6 +11,7 @@ Switch VM off to add TPM
 
 Press Windows + R 
 ![image](https://user-images.githubusercontent.com/19546253/233622960-7ac9248c-8f42-43bd-9fa6-c20689a431b3.png)
+
 ![image](https://user-images.githubusercontent.com/19546253/233623142-028eaedd-3747-4e36-a6da-5b0a957325a2.png)
 
 
