@@ -71,6 +71,14 @@ Click to start the VM:
 
 Choose the right settings in accordance with the organization/user, set up begins..
 
+Install the VM tools once set up is ready:
+
+![image](https://user-images.githubusercontent.com/19546253/233613113-91a63b66-2bbe-48ba-82a2-962a316be21e.png)
+
+![image](https://user-images.githubusercontent.com/19546253/233613454-e37fef36-64a0-4d22-9d2e-a836176393c6.png)
+
+Open to control resources in the VM, DVD-asema(E) VMware tools, and set it up. Restart when set up is ready.
+
 
 
 
