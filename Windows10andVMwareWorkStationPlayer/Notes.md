@@ -58,7 +58,7 @@ Käyttöjärjestlmä asettaa aina vaatimuksia päälaitteen prosessorin suhteen:
 
 - Uusin Windows 11 (2021) 
 - Käytetyin Windows 10 (75%)
-- Windows 8.1 tuki päättyy 1.2023
+- Windows 8.1 tuki päättyi 1.2023
 
 
 
