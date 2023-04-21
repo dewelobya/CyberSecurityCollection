@@ -27,6 +27,7 @@ Choose typical:
 
 ![image](https://user-images.githubusercontent.com/19546253/233605489-ca5f2760-693c-413c-8892-9bb8dfb90474.png)
 
+
 ![image](https://user-images.githubusercontent.com/19546253/233605596-4cc17722-7b33-498a-b74d-188fe038704d.png)
 
 ![image](https://user-images.githubusercontent.com/19546253/233606913-7c36d960-226f-4583-9bc4-3e8016896f52.png)
@@ -66,6 +67,9 @@ Add bios.bootdelay = "10000" to the last row of the file:
 
 
 
+
+Click to start the VM:
+![image](https://user-images.githubusercontent.com/19546253/233611263-89055c9a-c481-4ac8-90b3-fda3f38c82c2.png)
 
 
 
