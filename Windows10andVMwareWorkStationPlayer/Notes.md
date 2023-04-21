@@ -6,8 +6,6 @@ Download Microsoft Enterprise [here](https://www.microsoft.com/en-us/evalcenter/
 
 Course VM environment: VMware- and Hyper-V 
 
-![image](https://user-images.githubusercontent.com/19546253/233556588-1e6e1316-4b0f-4e68-bc51-9161a6b857c4.png)
-
 ### Päälaitteet
 
 Käyttölaitteet
@@ -28,7 +26,7 @@ Tietokone = laitteisto (hardware) + ohjelmisto (software)
 
 ### Palvelinkäyttöjärjestelmät 
 
-- Windoes Server (75%)
+- Windows Server (75%)
 - Unix (muutama prosentti)
 - Linux (palvelinkäytössä) Web-server Linux 75% ja Windows Server n.20%
 - Palvelinpuolella sekä fyysisiä, virtualisoituja ja virtuaalipalvelimia.
