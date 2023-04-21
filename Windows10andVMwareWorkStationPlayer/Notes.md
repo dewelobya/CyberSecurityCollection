@@ -49,10 +49,16 @@ Käyttöjärjestlmä asettaa aina vaatimuksia päälaitteen prosessorin suhteen:
 - prosessoriperhe: AMD, Apple M1, Motorola, Intel, Qualcomm
 - processorin malli: i5-6402P
 - prosessori bittisyys: 32 tai 64 bt
-- ![image](https://user-images.githubusercontent.com/19546253/233562536-a9e9e19f-cd59-48fb-9514-309e567add56.png)
-- [Intel prosessorien mallikirjasto] (https://en.wikipedia.org/wiki/List_of_Intel_processors)
+ ![image](https://user-images.githubusercontent.com/19546253/233562536-a9e9e19f-cd59-48fb-9514-309e567add56.png)
+- [Intel prosessorien mallikirjasto](https://en.wikipedia.org/wiki/List_of_Intel_processors)
 - [prosessorivaatimukset](https://learn.microsoft.com/fi-fi/windows-hardware/design/minimum/windows-processor-requirements)
 
+
+### Windows - käyttöjärjestelmä
+
+- Uusin Windows 11 (2021) 
+- Käytetyin Windows 10 (75%)
+- Windows 8.1 tuki päättyy 1.2023
 
 
 
