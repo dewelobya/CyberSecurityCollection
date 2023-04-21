@@ -40,6 +40,31 @@ Choose typical:
 
 Virtual Machine is ready but still offline...
 
+![image](https://user-images.githubusercontent.com/19546253/233608371-158c92e2-3e17-4d7f-9649-e8b550d5eeb0.png)
+
+.vmdk = Virtual Machine Disk 
+
+.lck ended file will be locked when VM is switched on 
+
+.vmx ended file is so-called the configuration file
+
+![image](https://user-images.githubusercontent.com/19546253/233609033-e20bb711-f6d2-4976-a1c4-bbb259e368e1.png)
+
+Add bios.bootdelay = "10000" to the last row of the file:
+
+![image](https://user-images.githubusercontent.com/19546253/233609164-d0dc391d-9869-443d-ad49-78d1a7282e3d.png)
+
+
+![image](https://user-images.githubusercontent.com/19546253/233609513-8788cb8c-2f4c-4bd5-a02f-d7115192c0d3.png)
+
+
+
+![image](https://user-images.githubusercontent.com/19546253/233609679-53ec5c03-9cd6-4ca7-8f05-22d72be58223.png)
+
+
+![image](https://user-images.githubusercontent.com/19546253/233609914-84a0f241-6f29-4891-8501-7c4333401f49.png)
+
+
 
 
 
