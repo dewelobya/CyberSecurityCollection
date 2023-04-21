@@ -66,10 +66,11 @@ Add bios.bootdelay = "10000" to the last row of the file:
 ![image](https://user-images.githubusercontent.com/19546253/233609914-84a0f241-6f29-4891-8501-7c4333401f49.png)
 
 
-
-
 Click to start the VM:
 ![image](https://user-images.githubusercontent.com/19546253/233611263-89055c9a-c481-4ac8-90b3-fda3f38c82c2.png)
+
+Choose the right settings in accordance with the organization/user, set up begins..
+
 
 
 
