@@ -1,7 +1,7 @@
 
 ## Add local Users and Groups using Windows Terminal
 
-**Download Windows Terminal**
+**Download Windows Terminal inside VM**
 
 **Open Windows Terminal as Administrator:**
 
