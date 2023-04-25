@@ -1,4 +1,4 @@
-### Course Notes 21-4-2023
+### General Course Notes (21-4-2023)
 
 Microsoft MD-100 Certification [Microsoft Learn](https://partner.microsoft.com/en-rs/asset/collection/modern-desktop-associate-certification-part-1-exam-md100#/)
 
