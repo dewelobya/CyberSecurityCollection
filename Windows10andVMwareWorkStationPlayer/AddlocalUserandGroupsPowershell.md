@@ -1,4 +1,3 @@
-### Adding local groups and users in VM
 
 ## Add local Users and Groups using Windows Terminal
 
