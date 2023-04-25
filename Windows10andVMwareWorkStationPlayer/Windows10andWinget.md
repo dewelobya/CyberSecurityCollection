@@ -22,7 +22,6 @@
 - Doesn't need main user's rights (e.g. sandbox apps) to download 
 
 
-
 ### Windows Package Manager CLI aka Winget 
 
 
