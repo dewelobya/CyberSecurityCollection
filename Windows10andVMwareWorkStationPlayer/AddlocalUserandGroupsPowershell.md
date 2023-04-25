@@ -13,8 +13,7 @@ https://helpdeskgeek.com/help-desk/fix-system-error-5-access-is-denied-in-window
 
 
 **Adding local groups and users in VM**
+
 ![image](https://user-images.githubusercontent.com/19546253/234252044-d895e18a-0f11-4ac7-baf8-527323c0a0f1.png)
-
-
 
 Resources: https://en.wikiversity.org/wiki/Net_(command)/Localgroup
