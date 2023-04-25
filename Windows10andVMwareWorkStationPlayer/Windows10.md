@@ -23,3 +23,16 @@
 
 
 
+### Windows Package Manager CLI aka Winget 
+
+
+**Use winget to install and manage applications**
+
+Micrsoft source: https://learn.microsoft.com/en-us/windows/package-manager/winget/#use-winget 
+Github source: https://github.com/microsoft/winget-cli
+
+Start Win10 VMware Workstation and open Powershell
+
+![image](https://user-images.githubusercontent.com/19546253/234200041-da0a6f86-1a41-4b23-b3de-d6977a55b928.png)
+
+
