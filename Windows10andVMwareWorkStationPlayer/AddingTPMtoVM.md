@@ -1,4 +1,4 @@
-### adding a TPM-circle to VM 2023-4-21 14.18 last updated ###
+### Adding a TPM-circle to VM 2023-4-21 14.18 last updated ###
 
 
 Add TPM before installing a windows system in the VM
