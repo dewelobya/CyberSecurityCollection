@@ -199,14 +199,14 @@ for example 192.429.13.7 The maximum possible value of one octet is 255.
 ![image](https://user-images.githubusercontent.com/19546253/235109823-5a6873dd-3e2c-42f9-a53c-9ccd7abc1db4.png)
 
 **Verkko-osoitetta ei konfiguroida **
-192.168.1.10
-1100 0000 . 1010 1000 . 0000 0001 . 0000 1010 
-1100 0000 . 1010 1000 . 0000 0001 . 0000 0000 = verkko osoite 
-192.168.1.0
+- 192.168.1.10
+- 1100 0000 . 1010 1000 . 0000 0001 . 0000 1010 
+- 1100 0000 . 1010 1000 . 0000 0001 . 0000 0000 = verkko osoite 
+- 192.168.1.0
 
-192.168.1.1
-192.168.1.2
-192.168.1.3
+- 192.168.1.1
+- 192.168.1.2
+- 192.168.1.3
 
 ## Network Mask ##
 
@@ -264,4 +264,10 @@ It is calculated that the network address is: 192.168.41.0/24 and the broadcast 
 - Typical student error in the lab: the default gateway is 192.168.1.1.
 Assigns the same address 192.168.1.1 to their own workstation
 - A conflict arises, potentially causing the entire lab's internal network to be disconnected from the Internet.
+
+**Exercise**
+
+-What are the network addresses of 172.20.16.50/16?
+verkon osoite/network address and yleislähetys osoite/broadcast address?
+-And the address 10.20.30.40/20?
 
