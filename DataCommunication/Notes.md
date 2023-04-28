@@ -122,3 +122,11 @@ Data transmission deal with the following OSI model protocol layers and topics:
 
 **Physical address - MAC (Media Access Control)**
 
+Check your own mac address from cmd: ipconfig/all 
+
+![image](https://user-images.githubusercontent.com/19546253/235086456-a6cd7a2a-2f25-43b0-b614-3caf749e81f8.png)
+
+![image](https://user-images.githubusercontent.com/19546253/235086544-1d44da22-599c-473c-a6bb-5ba67fb106f0.png)
+
+
+
