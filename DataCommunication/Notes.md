@@ -78,3 +78,30 @@ Data transmission deal with the following OSI model protocol layers and topics:
 
 **TCP/IP p2**
 
+- Vendor- and hardware-independent
+- Most commonly used protocol
+- Must be Windows 98 by default
+- Compatible with high-speed backbone connections (ATM, FrameRelay)
+- Bidirectional (fullduplex)
+- IPv
+*4192.168.0.1*
+- IPv6 
+*2001:0DB8:3FA9:0000:0000:0000:0000:00D3:9C5A*
+
+![image](https://user-images.githubusercontent.com/19546253/235074166-d882a21c-0d0d-41a0-9eaa-fb948c124447.png)
+
+*In Windows 95, TCP/IP has to be separately set up with network protocol*
+
+**Connection models/Viitemallit - OSI-malli ja TCP/IP- malli
+
+![image](https://user-images.githubusercontent.com/19546253/235073054-6dec91e0-ee02-4ccc-9afa-c717d8714a5f.png)
+
+![image](https://user-images.githubusercontent.com/19546253/235073113-8ac01eff-9f67-4b55-9e4b-7072cfcf94ea.png)
+
+![image](https://user-images.githubusercontent.com/19546253/235074638-d34a0a36-4126-410f-87ea-9791299e995f.png)
+*Source: https://www.researchgate.net/publication/327483011/figure/fig2/AS:668030367436802@1536282259885/The-logical-mapping-between-OSI-basic-reference-model-and-the-TCP-IP-stack.jpg*
+
+![image](https://user-images.githubusercontent.com/19546253/235074791-59bf213f-0090-4f1c-b31e-a3fd0660beb0.png)
+
+*Source: https://www.researchgate.net/figure/A-Summary-of-DER-Communication-Level-Attacks-and-Existing-Solutions-Layers-1-4_tbl2_327483011
+
