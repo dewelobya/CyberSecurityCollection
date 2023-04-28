@@ -98,6 +98,10 @@ Data transmission deal with the following OSI model protocol layers and topics:
 
 ![image](https://user-images.githubusercontent.com/19546253/235073113-8ac01eff-9f67-4b55-9e4b-7072cfcf94ea.png)
 
+
+![image](https://user-images.githubusercontent.com/19546253/235075020-5f8000bb-b7b2-4fcf-a7f9-64bc28610cc9.png)
+*Source:https://media.fs.com/images/community/upload/kindEditor/202107/29/original-seven-layers-of-osi-model-1627523878-JYjV8oybcC.png*
+
 ![image](https://user-images.githubusercontent.com/19546253/235074638-d34a0a36-4126-410f-87ea-9791299e995f.png)
 *Source: https://www.researchgate.net/publication/327483011/figure/fig2/AS:668030367436802@1536282259885/The-logical-mapping-between-OSI-basic-reference-model-and-the-TCP-IP-stack.jpg*
 
