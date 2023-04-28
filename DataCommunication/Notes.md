@@ -120,6 +120,9 @@ Data transmission deal with the following OSI model protocol layers and topics:
 
 **What transmits in the cable**
 
+
+[FS Cables](https://www.fs.com/de-en/c/fiber-testers-18?page=2)
+
 **Physical address - MAC (Media Access Control)**
 
 Check your own mac address from cmd: ipconfig/all 
@@ -128,5 +131,19 @@ Check your own mac address from cmd: ipconfig/all
 
 ![image](https://user-images.githubusercontent.com/19546253/235086544-1d44da22-599c-473c-a6bb-5ba67fb106f0.png)
 
+![image](https://user-images.githubusercontent.com/19546253/235086874-05fba1c4-c285-4815-ac57-7dc479091b9a.png)
+
+MAC addresses act as the physical addresses for local communications. They show up in most IEEE 802 networks including: 802.3 (as well as Ethernet II), 802.5, 802.11 (Wi-Fi), 802.15 (Bluetooth), and the ITU-T G.hn standards.
+
+The IEEE now manages MAC addresses. Their current projection is that the amount of addresses available with 48 bits (over 281 Trillion) will last until 2100. They have already planned to extend the MAC address space to 64 bits and will call it EUI-64.
+
+*[Resource](https://www.globalknowledge.com/us-en/resources/resource-library/articles/does-a-mac-address-mean-apple-invented-it/)*
+*[macvendors](https://macvendors.com/)
+
+![image](https://user-images.githubusercontent.com/19546253/235086782-45b74510-28ad-46a6-a469-b6c2fef7df42.png)
+
+![image](https://user-images.githubusercontent.com/19546253/235086829-7d8d2771-bc7f-4ea7-9f45-7578a471098d.png)
+
+**Network Devices**
 
 
