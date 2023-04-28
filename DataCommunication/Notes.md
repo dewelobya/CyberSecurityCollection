@@ -23,7 +23,6 @@ Data communication or digital communications, including data transmission and da
 - Unicast
 - Geocast
 
-
 - Simplex
 - Half Duplex
 - Full Duplex (now also wire network/langalliset verkot)
@@ -165,11 +164,104 @@ cmd: `ping 8.8.8.8`
 
 ## IPv4 ##
 
-**IP - Internet Protocol**
-
+## IP - Internet Protocol ##
+- Takes care of routing between networks
+- Includes sender and recipient addresses
+- IP address
 ![image](https://user-images.githubusercontent.com/19546253/235106858-5f5b7912-b442-40f3-bbf6-15634b161322.png)
 ![image](https://user-images.githubusercontent.com/19546253/235106902-abd5c2f6-be96-4429-bd6a-129d832f27ab.png)
 
-**IPv4-addressing/osoitteistus**
+## IPv4-addressing/osoitteistus ##
 
+- Each computer must have a unique IP address in order for the information to be
+goes to the right place
+- A 32-bit number that identifies a device on the network
+- Decimal numbers in four octets separated by a dot
+- The subnet mask defines the network part (NetworkID) and the device part (HostID)
+- Devices on the same logical network must have the same network part
+
+![image](https://user-images.githubusercontent.com/19546253/235107691-b7e9b1ab-26ac-454d-a2f4-758934e10e23.png)
+
+## IP-address and binary numbers ##
+
+- 8 bits = 1 byte = 256 different numbers between 0 and 255. This is why an IP address cannot
+for example 192.429.13.7 The maximum possible value of one octet is 255.
+
+![image](https://user-images.githubusercontent.com/19546253/235107987-d3a78af7-0098-4d96-8e38-0d75d4add218.png)
+
+
+192.168.1.10 
+
+![image](https://user-images.githubusercontent.com/19546253/235109675-cc472e54-d95f-4699-a0a1-5593198cd622.png)
+
+255.255.255.0 = /24 
+
+![image](https://user-images.githubusercontent.com/19546253/235109823-5a6873dd-3e2c-42f9-a53c-9ccd7abc1db4.png)
+
+**Verkko-osoitetta ei konfiguroida **
+192.168.1.10
+1100 0000 . 1010 1000 . 0000 0001 . 0000 1010 
+1100 0000 . 1010 1000 . 0000 0001 . 0000 0000 = verkko osoite 
+192.168.1.0
+
+192.168.1.1
+192.168.1.2
+192.168.1.3
+
+## Network Mask ##
+
+When specifying the network, you must also mention the network mask, i.e. directly
+in other words, the size of the network. You can specify the mask in different ways, but the idea is the same:
+How big is the network part?
+- In decimal form, a 32-bit binary number with so many 1's is drawn.
+consecutively as the length of the network part and the rest 0. For example, given a network
+10.10.10.1 and the network part is 10.10.10, then the length of the network part is 24 bits
+(8x3), so the mask in binary is: 1111111111 1111111111 1111111111 00000000.
+In decimal form it would be: 255.255.255.0
+- The current way of representing the mask is the CIDR format, using
+slash character and the length of the network segment. In the previous example, it would be /24
+This is now the preferred method, as it is much easier to understand and
+to write.
+
+Although in principle any length between 0 and 32 mm can be used as a mask.
+range, it is common to use masks that are easier for people to use, i.e.
+/8, /16 and /24 when they follow octet boundaries. Historically, for those of size
+Class A, B and C, but nowadays their use is not more common than in the past.
+
+![image](https://user-images.githubusercontent.com/19546253/235111261-e4cd9301-6ecf-4061-9bb0-ea39cdc600b9.png)
+
+- Network coverage directly affects the number of addresses (and therefore devices)
+can fit on a given network.
+- The number of addresses then comes directly from the number of bits in the device portion.
+Mathematically, 2n
+(n is the number of bits in the device partition):
+- 1 bit → 2 addresses
+- 2 bits → 4 addresses
+- 3 bits → 8 addresses
+- 4 bits → 16 addresses
+- 5 bits → 32 addresses
+- 6 bits → 64 addresses
+- 7 bits → 128 addresses
+- 8 bits → 256 addresses
+
+**Examples of the different masks**
+
+![image](https://user-images.githubusercontent.com/19546253/235111504-f985d056-c900-47fb-bc77-4d58508f66cc.png)
+
+
+## IP ¨rules¨  ##
+
+**Two reserved addresses on each network:**
+**1. Network address:** an address where the bits of the device part are 0. The address is the address where the part of the device is set to 0.
+**2. Broadcast address:** An address where the bits of the device part are 1.
+(remember the octet has a maxima value of 255).
+- These addresses must not be assigned to devices
+**- Example:** a network using the IP address 192.168.41.17/24
+The mask /24 means that the network part of the address is 192.168.41 (24 bits from the left), so
+the device part is .17
+It is calculated that the network address is: 192.168.41.0/24 and the broadcast address is 192.168.41.255/24
+**No two addresses on the same network**
+- Typical student error in the lab: the default gateway is 192.168.1.1.
+Assigns the same address 192.168.1.1 to their own workstation
+- A conflict arises, potentially causing the entire lab's internal network to be disconnected from the Internet.
 
