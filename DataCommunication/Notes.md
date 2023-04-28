@@ -107,5 +107,18 @@ Data transmission deal with the following OSI model protocol layers and topics:
 
 ![image](https://user-images.githubusercontent.com/19546253/235074791-59bf213f-0090-4f1c-b31e-a3fd0660beb0.png)
 
-*Source: https://www.researchgate.net/figure/A-Summary-of-DER-Communication-Level-Attacks-and-Existing-Solutions-Layers-1-4_tbl2_327483011
+*Source: https://www.researchgate.net/figure/A-Summary-of-DER-Communication-Level-Attacks-and-Existing-Solutions-Layers-1-4_tbl2_327483011**
+
+**Transferring data through the TCP/IP model**
+
+![image](https://user-images.githubusercontent.com/19546253/235075506-68978f37-91f5-428b-908c-23fe29d39e93.png)
+
+
+**IP-packet**
+
+**Paircable**
+
+**What transmits in the cable**
+
+**Physical address - MAC (Media Access Control)**
 
