@@ -1,11 +1,11 @@
 ## Data Communication eli Tietoliikenne 2023-4-28
 
 
-##Data transmission##
+## Data transmission ##
 
 Data communication or digital communications, including data transmission and data reception, is the transfer and reception of data in the form of a digital bitstream or a digitized analog signal (A.P.Clark 1983) transmitted over a point-to-point or point-to-multipoint communication channel.
 
-##Topology##
+## Topology ##
 
 - Ring 
 - Mesh 
@@ -15,7 +15,7 @@ Data communication or digital communications, including data transmission and da
 - Tree
 - Bus
 
-##Transmission methods##
+## Transmission methods ##
 
 - Anycast
 - Broadcast 
@@ -28,7 +28,7 @@ Data communication or digital communications, including data transmission and da
 - Half Duplex
 - Full Duplex (now also wire network/langalliset verkot)
 
-##Network appliances##
+## Network appliances ##
 
 - Repeater (Toistimet)
 - Keskittimet, HUB, moniporttitoistimet 
@@ -38,7 +38,7 @@ Data communication or digital communications, including data transmission and da
 - Firewall (Palomuuri)
 - NGFW (DPI & IPS) = next generation firewall with deep packet inspection and intrution prevention system 
 
-##Protocols p1##
+## Protocols p1 ##
 
 ![image](https://user-images.githubusercontent.com/19546253/235070494-ec4b011c-0498-48d2-9611-4e9426478142.png)
 
@@ -52,7 +52,7 @@ Data transmission deal with the following OSI model protocol layers and topics:
 - A protocol is a set of rules that two or more devices must follow in order to allow communication between them.
 - The role of protocols is to work together to provide a data transfer protocol service to application processes.
 
-##Protocols p2##
+## Protocols p2 ##
 
 - TCP/IP
 *The most used and common
@@ -65,7 +65,7 @@ Data transmission deal with the following OSI model protocol layers and topics:
 - DECnet
 *Digitalin VAX-machines (1975; 1983-2010)
 
-##TCP/IP p1##
+## TCP/IP p1 ##
 
 - Data transfer is a family of protocols that includes several different types of protocols/ Tiedonsiirto on protokollaperhe, johon kuuluu useita erilaisia protokollia
 - TCP = Transmission Control Protocol
@@ -75,7 +75,7 @@ Data transmission deal with the following OSI model protocol layers and topics:
 - ARP = AddressResolutionProtocol
 - IGMP = Internet Group Management Protocol
 
-##TCP/IP p2##
+## TCP/IP p2 ##
 
 - Vendor- and hardware-independent
 - Most commonly used protocol
@@ -91,7 +91,7 @@ Data transmission deal with the following OSI model protocol layers and topics:
 
 *In Windows 95, TCP/IP has to be separately set up with network protocol*
 
-##Connection models/Viitemallit - OSI-malli ja TCP/IP- malli##
+## Connection models/Viitemallit - OSI-malli ja TCP/IP- malli ##
 
 ![image](https://user-images.githubusercontent.com/19546253/235073054-6dec91e0-ee02-4ccc-9afa-c717d8714a5f.png)
 
@@ -108,23 +108,23 @@ Data transmission deal with the following OSI model protocol layers and topics:
 
 *Source: https://www.researchgate.net/figure/A-Summary-of-DER-Communication-Level-Attacks-and-Existing-Solutions-Layers-1-4_tbl2_327483011**
 
-##Transferring data through the TCP/IP model##
+## Transferring data through the TCP/IP model ##
 
 ![image](https://user-images.githubusercontent.com/19546253/235075506-68978f37-91f5-428b-908c-23fe29d39e93.png)
 
 
-##IP-packet##
+## IP-packet ##
 
-##Paircable##
+## Paircable ##
 
-##What transmits in the cable##
+## What transmits in the cable ##
 
 
 [FS Cables](https://www.fs.com/de-en/c/fiber-testers-18?page=2)
 
-##Physical address - MAC (Media Access Control)##
+## Physical address - MAC (Media Access Control) ##
 
-Check your own mac address from cmd: ipconfig/all 
+Check your own mac address from `cmd`:ipconfig/all
 
 ![image](https://user-images.githubusercontent.com/19546253/235086456-a6cd7a2a-2f25-43b0-b614-3caf749e81f8.png)
 
