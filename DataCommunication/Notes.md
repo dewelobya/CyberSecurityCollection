@@ -154,7 +154,22 @@ The IEEE now manages MAC addresses. Their current projection is that the amount 
 
 ![image](https://user-images.githubusercontent.com/19546253/235092941-f1c46a21-754a-4e9b-ace8-f525bb5af7df.png)
 
-**RARP**
-  
+cmd: `arp -a`
+
+**ICMP, IGMP**
+
+cmd: `ping 8.8.8.8`
+
+![image](https://user-images.githubusercontent.com/19546253/235104976-45d7a3d5-52eb-4c63-b90c-db2b07ae64f6.png)
+
+
+## IPv4 ##
+
+**IP - Internet Protocol**
+
+![image](https://user-images.githubusercontent.com/19546253/235106858-5f5b7912-b442-40f3-bbf6-15634b161322.png)
+![image](https://user-images.githubusercontent.com/19546253/235106902-abd5c2f6-be96-4429-bd6a-129d832f27ab.png)
+
+**IPv4-addressing/osoitteistus**
 
 
