@@ -103,6 +103,14 @@ Luo E-levy
 ![image](https://user-images.githubusercontent.com/19546253/236183410-3ba64e1a-42f0-4ea7-bb0b-dc0cbba722de.png)
 
 
-
 ## Windows Server 2019 toimialueympäristö 1/2 - 5/5/2023 ##
+
+**Logon Skripti**
+
+Käy lisäämässä Palkat-ryhmän henkilöille Logon skripti joka tekee Palkat-kansiosta levylinkin P: -asemaksi seuraavasti:➢Avaa Notepad ja kirjoita seuraavat rivit ja tallenna tiedosto palvelimella kansioon
+- E:\sysvol\sysvol\YritysX.local\scripts ja muista antaa tiedoston nimeksi palkat.cmd
+- net use p: /d >nul▪net use p: \\server01\palkat➢Avaa palkat -ryhmän henkilöiden käyttäjätilien ominaisuuksista Profiles -välilehti ja kirjoita kohtaan Logon script: palkat.cmd
+- Tee vastaava skripti myös Talous–ryhmälle ja heille Talous kansion mäppäys T-asemana.
+- Testaa jakojen toiminta kirjautumalla eri ryhmien käyttäjänä ja kokeile pääseekö käyttäjä em. kansioihin ja jos pääsee,onko käyttäjällä luku-vai kirjoitusoikeudet
+
 
