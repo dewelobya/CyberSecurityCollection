@@ -109,7 +109,10 @@ Luo E-levy
 
 Käy lisäämässä Palkat-ryhmän henkilöille Logon skripti joka tekee Palkat-kansiosta levylinkin P: -asemaksi seuraavasti:➢Avaa Notepad ja kirjoita seuraavat rivit ja tallenna tiedosto palvelimella kansioon
 - E:\sysvol\sysvol\YritysX.local\scripts ja muista antaa tiedoston nimeksi palkat.cmd
-- net use p: /d >nul▪net use p: \\server01\palkat➢Avaa palkat -ryhmän henkilöiden käyttäjätilien ominaisuuksista Profiles -välilehti ja kirjoita kohtaan Logon script: palkat.cmd
+- net use p: /d >nul
+- net use p: \\server01\palkat
+
+➢Avaa palkat -ryhmän henkilöiden käyttäjätilien ominaisuuksista Profiles -välilehti ja kirjoita kohtaan Logon script: palkat.cmd
 - Tee vastaava skripti myös Talous–ryhmälle ja heille Talous kansion mäppäys T-asemana.
 - Testaa jakojen toiminta kirjautumalla eri ryhmien käyttäjänä ja kokeile pääseekö käyttäjä em. kansioihin ja jos pääsee,onko käyttäjällä luku-vai kirjoitusoikeudet
 
