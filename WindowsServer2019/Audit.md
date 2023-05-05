@@ -1,4 +1,4 @@
-## Auditointi ##
+## Audit/Auditointi ##
 
 A.Tapahtumien kirjaamisen konfigurointi1.Harjoituksessa muokataan Default Domain Conrollers Policy GPO:tatoteuttamaan sekä onnistuneiden että epäonnistuneiden toimialueelle kirjautumisten tarkistus.•Avaa Group PolicyManagement konsoli
 - Laajenna Forest\Domains\YritysX.local\Domain Controllers
