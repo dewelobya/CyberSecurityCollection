@@ -1,6 +1,8 @@
 ## Backup ##
 
-- Toisen palvelimen asentaminen ja liittäminen toimialueeseen
-- Varmuuskopiointi
+## Toisen palvelimen asentaminen ja liittäminen toimialueeseen ##
+
+
+## Varmuuskopiointi ##
 
 
