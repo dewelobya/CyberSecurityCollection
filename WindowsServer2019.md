@@ -1,4 +1,4 @@
-## Windows Server 2019 toimialueympäristö 1/2 - 4/5/2023 ##
+## Windows Server 2019 toimialueympäristö P1 - 4/5/2023 ##
 
 ## Harjoitus 1.1 V1 ##
 
@@ -103,7 +103,7 @@ Luo E-levy
 ![image](https://user-images.githubusercontent.com/19546253/236183410-3ba64e1a-42f0-4ea7-bb0b-dc0cbba722de.png)
 
 
-## Windows Server 2019 toimialueympäristö 1/2 - 5/5/2023 ##
+## Windows Server 2019 toimialueympäristö P2 - 5/5/2023 ##
 
 **Logon Skripti**
 
@@ -113,7 +113,13 @@ Käy lisäämässä Palkat-ryhmän henkilöille Logon skripti joka tekee Palkat-
 - net use p: \\server01\palkat
 
 ➢Avaa palkat -ryhmän henkilöiden käyttäjätilien ominaisuuksista Profiles -välilehti ja kirjoita kohtaan Logon script: palkat.cmd
+
+![image](https://user-images.githubusercontent.com/19546253/236390044-9ea60f31-8694-471c-abdf-1949b4db19c1.png)
+
+
 - Tee vastaava skripti myös Talous–ryhmälle ja heille Talous kansion mäppäys T-asemana.
 - Testaa jakojen toiminta kirjautumalla eri ryhmien käyttäjänä ja kokeile pääseekö käyttäjä em. kansioihin ja jos pääsee,onko käyttäjällä luku-vai kirjoitusoikeudet
+
+
 
 
