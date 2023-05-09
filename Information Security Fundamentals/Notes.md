@@ -21,9 +21,9 @@ Tietojenkalasteluhyökkäykset (s-posti, tekstiviestit, puhelut)
 
 - Social engineering/sosiaalinen hakkerointi 
 
-**Mitä uhkia näet omissa laitteissasi kotona? **
+**Mitä uhkia näet omissa laitteissasi kotona?**
 
 - Puuttuu varmuuskopiointi 
 
  
-**Pohdi: uhka/sen vaarallisuus **
+**Pohdi: uhka/sen vaarallisuus**
