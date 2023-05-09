@@ -34,4 +34,4 @@ Here are some of the content covered:
 1. Microsoft Azure Fundamentals
 1. Powershell
 1. Python programming
-1. GDPR
+
