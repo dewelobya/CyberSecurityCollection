@@ -1,6 +1,6 @@
 ## Tietoturvallisuuden perusteet ##
 
-**TEHTÄVÄ 2023-5-9 **
+**TEHTÄVÄ 2023-5-9**
 
  
 **Mitä uhkia näet yrityksessä?**
