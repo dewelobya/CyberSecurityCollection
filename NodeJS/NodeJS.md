@@ -1,4 +1,4 @@
-# Learning Diary 1A Page #
+# NodeJS Learning Diary 1A Page #
 
 # Chapter 2 Open Exercises #
 
