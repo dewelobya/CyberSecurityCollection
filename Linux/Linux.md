@@ -29,3 +29,6 @@ turtle tux unipony unipony-smaller vader vader-koala www
 [Funny Linux Commands](https://kencorner.com/funny-linux-commands/)
 
 
+Programming exercises can be done with your own Linux booted or permanently installed Linux Mint or with various online bash environments like:
+
+https://www.jdoodle.com/test-bash-shell-script-online/
