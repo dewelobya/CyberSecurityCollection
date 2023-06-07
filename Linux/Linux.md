@@ -1,7 +1,7 @@
 
 # Linux Open Questions #
 
-**APT Toolset**
+**Chapter 2: APT Toolset**
 
 
 Cowsay 
@@ -28,7 +28,21 @@ turtle tux unipony unipony-smaller vader vader-koala www
 
 [Funny Linux Commands](https://kencorner.com/funny-linux-commands/)
 
+**Chapter 6: Install Atom Editor (optional)**
 
 Programming exercises can be done with your own Linux booted or permanently installed Linux Mint or with various online bash environments like:
 
 https://www.jdoodle.com/test-bash-shell-script-online/
+
+
+**Chapter 6: Programming exercises:** 
+
+[Filename with size](https://github.com/pe1l1nl1/CyberSecurityCollection/blob/main/Linux/Filenamewithsize.sh)
+
+[Palindrome loop](https://github.com/pe1l1nl1/CyberSecurityCollection/blob/main/Linux/palindrome.sh)
+
+[Calculator](https://github.com/pe1l1nl1/CyberSecurityCollection/blob/main/Linux/calculator.sh) 
+
+[Employee file](https://github.com/pe1l1nl1/CyberSecurityCollection/blob/main/Linux/employee.sh)
+
+[Bubble sort](https://github.com/pe1l1nl1/CyberSecurityCollection/blob/main/Linux/bubble_sort.sh) 
