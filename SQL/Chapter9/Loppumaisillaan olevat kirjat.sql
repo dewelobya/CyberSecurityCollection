@@ -1,0 +1,1 @@
+#Edellisessä tehtävässä laadit SQL-kyselyn, joka hakee Varasto-tauluun kirjattujen kirjojen nimet ja kustantajat (Harjoitustietokannan kuvaus). Nyt tehtävänäsi on täydentää kyselyä siten, että tuloksesta jätetään pois kirjat, joita on varastossa viisi tai enemmän.
