@@ -29,6 +29,10 @@ Muutos: LDAPS - LDAP
 
 ![image](https://github.com/pe1l1nl1/CyberSecurityCollection/assets/19546253/decd66f1-004a-4276-ab41-391487c8eda6)
 
+![image](https://github.com/pe1l1nl1/CyberSecurityCollection/assets/19546253/9d55217b-7984-4c9c-a3ad-19fe7276e168)
+
+
+
 
 
 
