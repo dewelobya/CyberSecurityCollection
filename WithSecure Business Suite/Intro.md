@@ -25,4 +25,10 @@ Muutos: LDAPS - LDAP
 
 ![image](https://github.com/pe1l1nl1/CyberSecurityCollection/assets/19546253/2de9bf16-2748-4bcc-b1e9-9a342096f900)
 
-**
+**WITHSECUREe SRV01 palvelin hallittavaksi PMS domainin alle**
+
+![image](https://github.com/pe1l1nl1/CyberSecurityCollection/assets/19546253/decd66f1-004a-4276-ab41-391487c8eda6)
+
+
+
+
