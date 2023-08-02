@@ -14,4 +14,15 @@ https://www.withsecure.com/en/support/download
 
 **Policy Manager Console**
 
+Tarkastele: Dashboard 
+Tee muutoksia: Settings 
+
 ![image](https://github.com/pe1l1nl1/CyberSecurityCollection/assets/19546253/9086ba82-4626-4e2e-b810-534c4ffcde03)
+
+**Active Directory**
+
+Muutos: LDAPS - LDAP
+
+![image](https://github.com/pe1l1nl1/CyberSecurityCollection/assets/19546253/2de9bf16-2748-4bcc-b1e9-9a342096f900)
+
+**
